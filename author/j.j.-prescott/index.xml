@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J.J. Prescott | Chuan Yu</title>
+    <link>/author/j.j.-prescott/</link>
+      <atom:link href="/author/j.j.-prescott/index.xml" rel="self" type="application/rss+xml" />
+    <description>J.J. Prescott</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>J.J. Prescott</title>
+      <link>/author/j.j.-prescott/</link>
+    </image>
+    
+    <item>
+      <title>Fairness in Incomplete Information Bargaining: Theory and Widespread Evidence from the Field</title>
+      <link>/publication/working-paper-3/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/working-paper-3/</guid>
+      <description>&lt;!-- 
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+ --&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
